@@ -37,5 +37,3 @@ Merges multiple movie rating JSON files into a single dataset and deletes the in
 - API keys/tokens should ideally be managed securely.
 - This folder is only responsible for data acquisition.
 - File paths may need adjustment based on project structure.
-
-**Author:** Antas Kumar Dubey
