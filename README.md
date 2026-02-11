@@ -70,6 +70,9 @@ This folder is mainly for iterative development and insights.
 4. **Exploration & Analysis**
    - Use notebooks in `notebooks/` for experimentation and modeling
 
+3. **Word2Vec Model Training**
+   - Training Word2Vec model on Game of thrones data, refer `Word2Vec\Preprop_and_w2v_training.py`
+
 ---
 
 ## Tech Stack
